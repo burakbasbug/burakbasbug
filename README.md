@@ -1,5 +1,6 @@
 ## 👋 &nbsp; I'm Burak
 
+🌐 Fullstack JavaScript Developer | Crafting code that empowers and inspires ✨💻
 
 ### 🛠 &nbsp;Tech Stack
 
